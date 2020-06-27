@@ -1,0 +1,50 @@
+TASK: 3
+-----------------------------------------------------
+What is Python?
+Python is an interpreted, high-level, general-purpose programming language. 
+Created by Guido van Rossum and first released in 1991, 
+Python's design philosophy emphasizes code readability with its notable 
+use of significant whitespace
+--------------------------
+Features of Python?
+Easy-to-learn − Python has few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly.
+
+Easy-to-read − Python code is more clearly defined and visible to the eyes.
+
+Easy-to-maintain − Python's source code is fairly easy-to-maintain.
+
+A broad standard library − Python's bulk of the library is very portable and cross-platform compatible on UNIX, Windows, and Macintosh.
+
+Interactive Mode − Python has support for an interactive mode which allows interactive testing and debugging of snippets of code.
+
+Portable − Python can run on a wide variety of hardware platforms and has the same interface on all platforms.
+
+Extendable − You can add low-level modules to the Python interpreter. These modules enable programmers to add to or customize their tools to be more efficient.
+
+Databases − Python provides interfaces to all major commercial databases.
+
+GUI Programming − Python supports GUI applications that can be created and ported to many system calls, libraries and windows systems, such as Windows MFC, Macintosh, and the X Window system of Unix.
+
+Scalable − Python provides a better structure and support for large programs than shell scripting.
+--------------------------
+Who are using Python?
+Industrial Light and Magic.
+Google.
+Facebook.
+Instagram.
+Spotify.
+Quora.
+Netflix.
+Dropbox.
+--------------------------
+Where we can use Python?
+Python is a general purpose and high level programming language. You can use Python for developing desktop GUI applications, websites and web applications. Also, Python, as a high level programming language, allows you to focus on core functionality of the application by taking care of common programming tasks.
+
+--------------------------
+One Company use-case about Python
+Back-end web development
+Python is a perfect match for database interactions and writing APIs, so it’s no wonder the language became the key element in the development of many globally popular websites and web services. Python frameworks Django and Flask are the most popular web development frameworks nowadays. At ScienceSoft, we opt for Django for sophisticated, multi-layer, full-stack applications. In case of small, simple software solutions or software parts that will be integrated with other applications, we choose Flask.
+
+Data analytics and machine learning
+Python is often the language of choice for the development of data analytics solutions and data science- and machine learning-powered solutions. ScienceSoft’s data science team relies on such Python libraries as OpenCV and scikit-learn for building machine-learning algorithms, and Keras for creating and training neural networks. Leveraging these tools, our team has created solutions for accurate sales forecasting, defect detection and production quality monitoring for retail, manufacturing, oil and gas, and other industries.
+=====================================================

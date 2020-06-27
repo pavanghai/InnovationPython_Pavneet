@@ -1,0 +1,26 @@
+TASK: 3
+-----------------------------------------------------
+What is Python?
+Python is an interpreted, high-level, general-purpose programming language. 
+Created by Guido van Rossum and first released in 1991, 
+Python's design philosophy emphasizes code readability with its notable 
+use of significant whitespace
+--------------------------
+Features of Python?
+Python is a dynamic, high level, free open source and interpreted programming language. ...
+Easy to code: ...
+Free and Open Source: ...
+Object-Oriented Language: ...
+GUI Programming Support: ...
+High-Level Language: ...
+Extensible feature: ...
+Python is Portable language:
+--------------------------
+Who are using Python?
+--------------------------
+Where we can use Python?
+--------------------------
+One Company use-case about Python
+You need to create a txt or pdf and push that on new repo called Day_2_yourname
+
+=====================================================

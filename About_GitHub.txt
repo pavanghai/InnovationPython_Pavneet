@@ -1,0 +1,80 @@
+TASK: 1
+-----------------------------------------------------
+Practice on following commands
+-git clone : command: git clone <path> 
+	this will copy gitgub repository (Folder) to local drive
+			 
+-git diff  : command: git diff
+	1st tried changing file in github ---> no change result were seen
+	2nd tried changing in local file  ---> Changes result was seen as below
+			diff --git a/random.py b/random.py
+			index f498d57..1a260a4 100644
+			--- a/random.py
+			+++ b/random.py
+			@@ -3,3 +3,4 @@ y = 10
+			 z = 30
+			 result = x+y
+			 print(x+y+z)
+			+print ("x is ",x)
+			\ No newline at end of file
+-git add : command: git add .
+	The git add command adds a change in the working directory to the staging area. 
+	It tells Git that you want to include updates to a particular file in the next commit.
+	However, git add doesn't really affect the repository in any significant way—changes
+	are not actually recorded until you run git commit
+-git status  : command: git status
+	The git status command displays the state of the working directory and the staging area.
+	It lets you see which changes have been staged, which haven't, and which files aren't 
+	being tracked by Git. Status output does not show you any information regarding the
+	committed project history.
+-Git Log : The git log command displays all of the commits in a repository’s history.
+-Git Commit : The git commit command will save all staged changes, along with a brief 
+	description from the user, in a “commit” to the local repository.
+-Git Push : The git push command is used to upload local repository content to a remote repository.
+	Pushing is how you transfer commits from your local repository to a remote repo. ... 
+	Remote branches are configured using the git remote command. 
+	Pushing has the potential to overwrite changes, caution should be taken when pushing
+-Git Reset : This means that git reset <pathspec> is the opposite of git add <pathspec> . 
+	This command is equivalent to git restore [--source=<tree-ish>] --staged <pathspec>.
+-Git Pull : git pull is a Git command used to update the local version of a repository 
+	from a remote. It is one of the four commands that prompts network interaction by Git. 
+	By default, git pull does two things. Updates the current local working branch 
+	(currently checked out branch)
+-Git Branch : Git branches are effectively a pointer to a snapshot of your changes. 
+	When you want to add a new feature or fix a bug—no matter how big or how small—you 
+	spawn a new branch to encapsulate your changes.
+-Git Checkout:  git checkout command lets you navigate between the branches created by git branch.
+	Checking out a branch updates the files in the working directory to match the version
+	stored in that branch, and it tells Git to record all new commits on that branch.
+=====================================================
+TASK: 2
+-----------------------------------------------------
+What are the differences between  Git and GitHub?
+Git is a revision control system, a tool to manage your source code history. 
+GitHub is a hosting service for Git repositories. So they are not the same thing: 
+Git the tool, GitHub the service for projects that use Git.
+source: https://www.quora.com/What-is-the-difference-between-Git-and-GitHub
+
+-----------------------------------------------------
+What is Git Workflow?
+A Git Workflow is a recipe or recommendation for how to use Git to accomplish work in a 
+consistent and productive manner. Git workflows encourage users to leverage Git effectively
+and consistently. Git offers a lot of flexibility in how users manage changes. 
+Given Git's focus on flexibility, there is no standardized process on how to interact with Git. 
+Step 1: Set up a Github Organization. ...
+Step 2: Fork Organization Repository to Your Personal GitHub. ...
+Step 3: Clone the Repository to Your Local Machine. ...
+Step 4: Create a Branch for your Working Files. ...
+Step 5: Set Remote Repository to the GitHub Organization. ...
+Step 6: Get Coding!
+-----------------------------------------------------
+How many types of version control systems are there?
+The three most popular version control systems are broken down into two main categories,
+centralized and decentralized (also known as distributed).
+
+Google has built its own "version control system" for juggling all this code. 
+The system is called Piper, and it runs across the vast online infrastructure 
+Google has built to run all its online services.
+
+Amazon is using Perforce, although lots of people there are experimenting with git internally.
+=====================================================
